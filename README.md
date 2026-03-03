@@ -1,7 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=StackFans+Banner" alt="StackFans Banner" />
-</p>
 
 <!-- Logo -->
 <p align="center">
